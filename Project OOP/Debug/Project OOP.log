@@ -1,0 +1,7 @@
+﻿  Project OOP.cpp
+Z:\3rd Semester\PROJECT OOP CRICKET\Project OOP\Project OOP.cpp(56,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Z:\3rd Semester\PROJECT OOP CRICKET\Project OOP\Project OOP.cpp(84,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Z:\3rd Semester\PROJECT OOP CRICKET\Project OOP\Project OOP.cpp(115,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Z:\3rd Semester\PROJECT OOP CRICKET\Project OOP\Project OOP.cpp(163,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Z:\3rd Semester\PROJECT OOP CRICKET\Project OOP\Project OOP.cpp(215,3): warning C4551: function call missing argument list
+  Project OOP.vcxproj -> Z:\3rd Semester\PROJECT OOP CRICKET\Project OOP\Debug\Project OOP.exe
